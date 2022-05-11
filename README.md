@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Freddywhest
-- 👀 I’m interested in Web-Apps
-- 🌱 I’m currently learning web-apps development
+- 👋 Hi, I’m @Alfred
+- 👀 I’m a web developer
+- 🌱 I'm expert in HTML, CSS, JAVASCRIPT, PHP, REACT JS, NODE EXPRESS JS and MYSQL
 - 📫 How to reach me: email- githubproject3@gmail.com
 
 <!---
