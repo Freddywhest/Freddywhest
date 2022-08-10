@@ -8,7 +8,10 @@
 Freddywhest/Freddywhest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Freddywhest&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Freddywhest&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Freddywhest&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
