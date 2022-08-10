@@ -1,3 +1,4 @@
+# 💫About Me :
 - 👋 Hi, I’m @Alfred
 - 👀 I’m a web developer
 - 🌱 I'm expert in HTML, CSS, JAVASCRIPT, PHP, REACT JS, NODE EXPRESS JS and MYSQL
