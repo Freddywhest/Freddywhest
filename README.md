@@ -16,12 +16,12 @@
 - React.js
 
 **📌 Backend Development**
-- Server-Side: PHP, Node.js/Express.js
+- Server-Side: PHP/Laravel, Node.js/Express.js
 - Database: SQL / MySQL, NoSQL / MongoDB 
 
 **🎁 Other Skills**
 - Poem maker
-- Canvas knowledge
+- Composer
 - Package Manager: NPM
 - Basic edit: Movavi video editor
 
