@@ -3,9 +3,7 @@
 - 👀 I’m a full stack web developer
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me: email-> alfrednti5000@gmail.com
-- 🌐 Website -> [Portfolio
-](https://freddywhest.github.io/portfolio/)
-
+- 🌐 Website -> <a href="http://example.com/](https://freddywhest.github.io/portfolio/" target="_blank">My Portfolio</a>
 ## 🛠 Skills
 
 **🎨 Frontend Development**
