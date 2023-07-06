@@ -3,8 +3,8 @@
 - 👀 I’m a web developer
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me: email-> contact@alfrednti.com / alfrednti5000@gmail.com
-- 🌐 Website -> https://alfrednti.com
-
+- 🌐 Website -> [Portfolio
+](https://freddywhest.github.io/portfolio/)
 
 ## 🛠 Skills
 
