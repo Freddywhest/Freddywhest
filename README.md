@@ -1,6 +1,6 @@
 # Hi 👋, I’m Alfred!
 
-- 👀 I’m a web developer
+- 👀 I’m a full stack web developer
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me: email-> alfrednti5000@gmail.com
 - 🌐 Website -> [Portfolio
