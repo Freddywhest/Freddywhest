@@ -30,8 +30,6 @@
 
 ## Hobbies
 
-📜🖋Writing poem
-
 🧠 Learning new things
 
 👨‍💻 Doing personal projects
