@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Alfred%20Nti%20&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=53&descAlign=62)
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
@@ -57,3 +58,5 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 # ⚡️Today's Quote :
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&descAlignY=51&descAlign=62)
