@@ -53,7 +53,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 👨‍💻 Doing personal projects
 
 # 📊GitHub Stats :
-[![](https://github-readme-stats.vercel.app/api?username=Freddywhest&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)](https://github-readme-streak-stats.herokuapp.com/?user=FreddyWhest&theme=react)<br/>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FreddyWhest&theme=react) <br/>
 
 # ⚡️Today's Quote :
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
