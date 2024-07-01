@@ -1,3 +1,7 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=freddywhest&repo=memefibot&theme=react)](https://github.com/freddywhest/memefi) _____ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=freddywhest&repo=bunnyappbot&theme=react)](https://github.com/freddywhest/bunnyapp)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=freddywhest&repo=firestore-eloquent&theme=react)](https://github.com/freddywhest/firestore-eloquent) _____ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=freddywhest&repo=vehicle-management&theme=react)](https://github.com/freddywhest/vehicle-management)
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Alfred%20Nti%20&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=53&descAlign=62)
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
@@ -54,7 +58,10 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 👨‍💻 Doing personal projects
 
 # 📊GitHub Stats :
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FreddyWhest&theme=react) <br/>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FreddyWhest&theme=react) <br/> 
+
+# 📊Top Langs :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freddywhest&theme=react&langs_count=10compact)](https://github.com/freddywhest)<br/> 
 
 # ⚡️Today's Quote :
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
