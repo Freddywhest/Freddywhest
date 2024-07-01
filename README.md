@@ -61,7 +61,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FreddyWhest&theme=react) <br/> 
 
 # 📊Top Langs :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freddywhest&theme=react&langs_count=10compact)](https://github.com/freddywhest)<br/> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freddywhest&theme=react&langs_count=10&layout=compact)](https://github.com/freddywhest)<br/> 
 
 # ⚡️Today's Quote :
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
