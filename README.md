@@ -1,5 +1,3 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=freddywhest&repo=firestore-eloquent&theme=react)](https://github.com/freddywhest/firestore-eloquent) _____ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=freddywhest&repo=vehicle-management&theme=react)](https://github.com/freddywhest/vehicle-management)
-
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Alfred%20Nti%20&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=53&descAlign=62)
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
@@ -19,7 +17,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <img src="https://github.com/HalemoGPA/HalemoGPA/blob/main/images/Developer.gif" alt="developer gif"  height="45px">
 
-- 👀 I’m a full stack web developer
+- 👀 I’m a Software Engineer
 - 💞️ I’m looking to collaborate on any projects
 - 🌐 Website: [My Portfolio](https://freddywhest.github.io/portfolio/)
 - 📫 How to reach me 👇
@@ -40,10 +38,14 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 - Database: SQL / MySQL, NoSQL / MongoDB 
 
 **🎁 Other Skills**
-- Poem maker
-- Composer
-- Package Manager: NPM
+- Version Control: Git
+- Operating Systems: Linux (Ubuntu), Windows and MacOS
+- Web Servers: Apache
+- Cloud Providers: Digital Ocean and Google Cloud
+- Package Managers: NPM, Yarn and Composer
 - Basic edit: Movavi video editor
+- IDE: VS code
+- Tools: Docker, ClickUp
 
 ## 🔗 Connect with me
 [[linkedin]](https://www.linkedin.com/in/alfred-nti/)
@@ -51,15 +53,14 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ## Hobbies
 
-🧠 Learning new things
+- 🧠 Learning new things
+- 👨‍💻 Doing personal projects
+- ⚽ Watching Football
+- 🎮 Playing games
 
-👨‍💻 Doing personal projects
-
-# 📊GitHub Stats :
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FreddyWhest&theme=react) <br/> 
-
-# 📊Top Langs :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freddywhest&theme=react&langs_count=10&layout=compact)](https://github.com/freddywhest)<br/> 
+# 📊GitHub Stats and Top Langs:
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FreddyWhest&theme=react) __
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freddywhest&theme=react&langs_count=8&layout=compact)](https://github.com/freddywhest)<br/> 
 
 # ⚡️Today's Quote :
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
